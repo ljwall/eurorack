@@ -30,7 +30,6 @@
 *.zip
 
 # LaTeX compiled file
-*.pdf
 *.log
 *.aux
 
